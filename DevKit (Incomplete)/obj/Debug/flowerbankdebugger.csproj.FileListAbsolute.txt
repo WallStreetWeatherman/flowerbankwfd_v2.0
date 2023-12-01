@@ -1,0 +1,15 @@
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\bin\Debug\flowerbankdebugger.exe.config
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\bin\Debug\flowerbankdebugger.exe
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\bin\Debug\flowerbankdebugger.pdb
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\App.g.cs
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger_MarkupCompile.cache
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger_MarkupCompile.lref
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\MainWindow.baml
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger.g.resources
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger.Properties.Resources.resources
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger.exe
+C:\Users\Nick\source\repos\flowerbankdebugger\flowerbankdebugger\obj\Debug\flowerbankdebugger.pdb
